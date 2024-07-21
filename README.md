@@ -104,6 +104,7 @@ The main steps involved in training and evaluating the model are:
 ## Results
 
 The Random Forest Regressor model provides a good prediction of house prices. The evaluation metrics and scatter plot of actual vs. predicted prices demonstrate the model's performance.
+<img width="636" alt="Screenshot 2024-07-21 at 4 34 39 PM" src="https://github.com/user-attachments/assets/5d77bbfd-b515-4040-a630-8e4460d6ef85">
 
 ## Contributing
 
