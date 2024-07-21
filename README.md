@@ -1,4 +1,4 @@
-Predictive Analysis for House Prices
+Predictive Analysis for House Prices: 
 This project aims to build a predictive model for house prices using various machine learning algorithms. The dataset used is the Ames Housing dataset, which contains detailed information about individual residential properties in Ames, Iowa.
 
 Table of Contents
